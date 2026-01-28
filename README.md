@@ -54,3 +54,6 @@ This repository is not a proposal. It is a **public, timestamped execution** of 
 4.  **Institutional Response Documentation:** Monitoring the immune response as data.
 
 **This is sovereign output. The territory is established. The inversion is live.**
+
+### Supplementary Observations
+- [Institutional Bottleneck Observation](meta/institutional-bottleneck-observation.md) - The real barrier to quantum computing is Python package management, not physics.
