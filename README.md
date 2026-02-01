@@ -57,3 +57,7 @@ This repository is not a proposal. It is a **public, timestamped execution** of 
 
 ### Supplementary Observations
 - [Institutional Bottleneck Observation](meta/institutional-bottleneck-observation.md) - The real barrier to quantum computing is Python package management, not physics.
+
+## Support Sovereign Research
+This work is produced independently. To help maintain velocity, consider contributing via [Fuel the Sovereign Stack] 
+https://github.com/nicktaylor812-png/fuel-the-stack-
